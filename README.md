@@ -1,3 +1,3 @@
 # Insurance (Ml Project)
 *Analyse and visualize which category going to take insurance
-*Create a Linear Regression Model 
+*Build a Linear Regression Model 
